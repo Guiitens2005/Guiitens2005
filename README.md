@@ -5,6 +5,7 @@
 - 📫 How to reach me guilherme.a.caseiro@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im 18yo studying software engineering on college, i have being studying programming since i was 15 because of my interest in games and how they work behind the scenes
+- Yes my Favorite Game is Cry of Fear.
 
 <!---
 Guiitens2005/Guiitens2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
