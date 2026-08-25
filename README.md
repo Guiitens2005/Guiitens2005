@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guiitens2005
 - 👀 I’m interested in Gaming, Software Develpment, Modding and programming
-- 🌱 I’m currently learning SQL, Python and Java
+- 🌱 I’m currently learning SQL, Python, Java and C#
 - 💞️ I’m looking to collaborate with anyone helpful 
 - 📫 How to reach me guilherme.a.caseiro@gmail.com
 - 😄 Pronouns: he/him
